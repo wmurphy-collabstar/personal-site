@@ -1,4 +1,5 @@
-# cobb14b25b2e0170c6eec8f83
+# My personal site
+You can check it out here: https://wmurphy-collabstar.github.io/personal-site/
 
 ## About Scrimba
 
